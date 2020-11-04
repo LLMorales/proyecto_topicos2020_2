@@ -17,6 +17,7 @@ public class IngSof2020 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("integrando git con netbeans");
+        System.out.println("esta linea fue modificada desde git");
     }
     
 }
